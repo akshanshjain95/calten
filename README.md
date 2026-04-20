@@ -4,6 +4,8 @@ Turn any book into a test of understanding.
 
 🌐 https://calten.io
 
+![Homepage](./assets/calten_home.png)
+
 ---
 
 ## What is Calten?
