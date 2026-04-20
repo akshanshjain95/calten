@@ -33,7 +33,7 @@ Instead of passively reading, you can test yourself and actually remember what y
 
 ## Try it
 
-👉 https://www.calten.io
+👉 https://calten.io
 
 ---
 
