@@ -2,7 +2,7 @@
 
 Turn any book into a test of understanding.
 
-🌐 https://www.calten.io
+🌐 https://calten.io
 
 ---
 
