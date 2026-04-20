@@ -23,6 +23,8 @@ Instead of passively reading, you can test yourself and actually remember what y
 3. Questions are generated instantly
 4. Test your understanding
 
+![Test UI](./assets/calten_test.png)
+
 ---
 
 ## Why use Calten?
